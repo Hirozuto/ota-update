@@ -1,0 +1,26 @@
+{
+    "version": "v4.2-Unofficial-ItzKaguya",
+    "date": "1644083319",
+    "variants": [
+        {
+            "name": "treble_arm64_bvN",
+            "size": 0,
+            "url": "https://devnull.org"
+        }
+        {
+            "name": "treble_arm64_bgN",
+            "size": 0,
+            "url": "https://devnull.org"
+        }
+        {
+            "name": "treble_a64_bvN",
+            "size": 0,
+            "url": "https://devnull.org"
+        }
+        {
+            "name": "treble_a64_bgN",
+            "size": 0,
+            "url": "https://devnull.org"
+        }
+    ]
+}
