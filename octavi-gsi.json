@@ -1,11 +1,11 @@
 {
     "version": "v4.2-Unofficial-ItzKaguya",
-    "date": "1644083319",
+    "date": "1680288418",
     "variants": [
         {
             "name": "treble_arm64_bvN",
-            "size": 0,
-            "url": "https://devnull.org"
+            "size": 864360,
+            "url": "http://yukiprjkt.itzkaguya.workers.dev/2:/OctaviOS-v4.2-treble_arm64_bvN-20230331-1834-VANILLA-Unofficial.img.xz"
         }
         {
             "name": "treble_arm64_bgN",
